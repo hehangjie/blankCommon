@@ -10,6 +10,6 @@
 Hello world, this is my first springMVC<br>
 path:<c:out value="${path}"></c:out><br>
 basePath:<c:out value="${basePath}"></c:out>
-Hello git
+Hello git, Hello maven
 </body>
 </html>
